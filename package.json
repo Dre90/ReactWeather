@@ -1,5 +1,5 @@
 {
-  "name": "boilerplate",
+  "name": "ReactWeather",
   "version": "1.0.0",
   "description": "Simpel React app",
   "main": "index.js",
